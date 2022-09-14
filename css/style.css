@@ -183,7 +183,7 @@ li {
 	height: 78px;
 }
 
-.top_title {
+.top__title {
 	font-weight: bold;
 	font-size: 44px;
 	line-height: 54px;
@@ -191,14 +191,14 @@ li {
 	max-width: 518px;
 }
 
-.top_text {
+.top__text {
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 28px;
 	margin-bottom: 48px;
 }
 
-.top_btn {
+.top__btn {
 	color: white;
 	font-size: 18px;
 	line-height: 20px;
