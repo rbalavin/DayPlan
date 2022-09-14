@@ -171,7 +171,7 @@ li {
 }
 
 .top {
-	/* background: url('../images/bg.jpg') 0 0/cover no-repeat; */
+	background: conic-gradient(at 0% 30%, rgb(161, 156, 156) 10%, rgb(245, 245, 240) 30%, rgb(252, 253, 253) 50%);
 	height: 500px;
 	padding: 133px 0 80px;
 }
@@ -206,6 +206,10 @@ li {
 	padding: 11px 23px;
 	background-color: #b91821;
 	border-color: transparent;
+	border-radius: 4px;
+}
+
+.form-control {
 	border-radius: 4px;
 }
 
